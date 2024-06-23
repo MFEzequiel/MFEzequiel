@@ -1,4 +1,4 @@
-<p aling="center">👋 Hola soy <a href="https://mf-ezequiel-github-io.vercel.app/">Marcelo</a></p>
+<h2 align="center">👋 Hola soy <a href="https://mf-ezequiel-github-io.vercel.app/">Marcelo</a></h2>
 
 <h2>Sobre mi</h2>
 <ul>
@@ -13,39 +13,41 @@
   <li>
     <strong>Conocimientos: </strong>
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
+      <li>
+         <img src="https://img.shields.io/badge/HTML-071013" alt="">
+      </li>
+      <li>
+         <img src="https://img.shields.io/badge/CSS-071013" alt="">
+      </li>
+      <li>
+         <img src="https://img.shields.io/badge/JavaScript-071013" alt="">
+      </li>
     </ul>
   </li>
   <li>
     <strong>Metodologías CSS: </strong>
     <ul>
-      <li>BEM</li>
-      <li>SMACSS</li>
+      <li>
+         <img src="https://img.shields.io/badge/BEM-071013" alt="">
+      </li>
+      <li>
+        <img src="https://img.shields.io/badge/SMACSS-071013" alt="">
+      </li>
     </ul>
   </li>
   <li>
     <strong>Aprendisaje actual: </strong>
     <ul>
-      <li>React</li>
-      <li>TypeScript</li>
+      <li>
+        <img src="https://img.shields.io/badge/React-071013" alt="">
+      </li>
+      <li>
+        <img src="https://img.shields.io/badge/TypeScript-071013" alt="">
+      </li>
     </ul>
   </li>
 </ul>
 
-<img alt="Mis stats" src="https://github-readme-stats.vercel.app/api?username=MFEzequiel&show_icons=true">
-<!--
-**MFEzequiel/MFEzequiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Mis stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=MFEzequiel&show_icons=true" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Top Langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFEzequiel&layout=compact" />
